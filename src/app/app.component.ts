@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Options } from 'ngx-imgclicker';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'imgclicker-project';
+  options: Options = {
+    urlCallback: (url: string) => {
+      return url;
+    }
+  };
+
 }

@@ -14,7 +14,13 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-imgclicker": [
+        "dist/ngx-imgclicker/ngx-imgclicker",
+        "dist/ngx-imgclicker"
+      ]
+    }
   },
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
