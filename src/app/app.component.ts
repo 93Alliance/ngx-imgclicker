@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { Options } from 'ngx-imgclicker';
+import { Options } from '@flywine93/ngx-imgclicker';
 
 @Component({
   selector: 'app-root',

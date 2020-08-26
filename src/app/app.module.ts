@@ -5,7 +5,7 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { CommonModule } from '@angular/common';
-import { NgxImgclickerModule } from 'ngx-imgclicker';
+import { NgxImgclickerModule } from '@flywine93/ngx-imgclicker';
 
 @NgModule({
   declarations: [
@@ -15,7 +15,6 @@ import { NgxImgclickerModule } from 'ngx-imgclicker';
     BrowserModule,
     AppRoutingModule,
     CommonModule,
-    // NgxImgclickerModule
     NgxImgclickerModule
   ],
   providers: [],

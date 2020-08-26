@@ -1,4 +1,6 @@
-# ngx-imgclicker
+# ngx-imgclicker [![npm version](https://badge.fury.io/js/%40flywine93%2Fngx-imgclicker.svg)](https://badge.fury.io/js/%40flywine93%2Fngx-imgclicker) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+[![NPM](https://nodei.co/npm/@flywine93/ngx-imgclicker.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/@flywine93/ngx-imgclicker/)
 
 ![logo](./logo.png)
 
